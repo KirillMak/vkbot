@@ -1,9 +1,9 @@
 # vkbot
 Чат-бот сообщества ВКонтакте, который агрегирует данные, поступающие с различных сервисов
 
-1.index.php - главная страница бота
-2.currate_api.php - включает функции для работы с API currate.ru
-3.currencylayer_api.php - включает функции для работы с api currencylayer.com
-4.yandex_api.php - включает функции для работы с API yandex для синтеза речи
-5.wunderground_api.php - включает функции для работы с API wunderground.com для получения информации о прогнозе погоды
-6.config.php - содержит информацию о значениях ключевых констант и токенов для работы с API.
+1. **index.php** - главная страница бота
+2. **currate_api.php** - включает функции для работы с API currate.ru
+3. **currencylayer_api.php** - включает функции для работы с api currencylayer.com
+4. **yandex_api.php** - включает функции для работы с API yandex для синтеза речи
+5. **wunderground_api.php** - включает функции для работы с API wunderground.com для получения информации о прогнозе погоды
+6. **config.php** - содержит информацию о значениях ключевых констант и токенов для работы с API.
